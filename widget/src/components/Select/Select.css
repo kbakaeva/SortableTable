@@ -1,0 +1,8 @@
+.sort_column {
+    border: 2px solid teal;
+    border-radius: 6px;
+    width: 150px;
+    height: 31px;
+    margin-left: 5px;
+    color: teal;
+}

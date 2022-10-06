@@ -1,0 +1,12 @@
+.head_cell {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 20px;
+    border: 2px solid #f7f7fa;
+}
+
+.head_cell_title {
+    font-size: 18px;
+    font-weight: 700;
+}
